@@ -39,7 +39,7 @@ Follow these steps to set up the API on your local development environment.
 1. Clone the Repository
 
 ```bash
-https://github.com/vishmithSuranjaya/NexusTask-Backend.git
+git clone https://github.com/vishmithSuranjaya/NexusTask-Backend.git
 cd nexustask-backend
 ```
 
